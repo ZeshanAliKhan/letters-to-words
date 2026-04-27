@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshan-letters-to-words.netlify.app/sitemap.xml
